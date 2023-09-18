@@ -46,6 +46,7 @@ JOIN companies c ON a.acquirer_id = c.company_id
 WHERE 1 = 1
     AND YEAR(acquisition_date) BETWEEN 2021 AND 2023
 ORDER BY acquisition_date DESC;
+
 -- Get a running total and average of sent funds by month and ownership type this year.
 CREATE OR REPLACE VIEW investments_2023 AS
 SELECT DISTINCT MONTHNAME(investment_date) investment_month,
