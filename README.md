@@ -1,5 +1,7 @@
 # Global Energy Sector Project
 
+The full interactive dashboard is available [here](https://lookerstudio.google.com/s/gun7hoIApTQ).
+
 ## Table of Contents
 
 - [Introduction](#introduction)
@@ -43,10 +45,6 @@ The code to unpack the JSON/create tables and create views is found in table_cre
 
 ## Dashboard Creation
  Looker Studio provides free visualization tools that connect directly to your data base. On top of this, it provides the ability to customize data sources without changing the data base. The first dashboard was created to show an overview of the global energy sector this year to date. It provides a high level overview of the top companies based on revnenue, timelines of funding and acquisitions, percentage of industries present in the list of companies, the tope investors, and each country's total revenue. The second dashboard offers dynamic insights to the user. It allows the user to see historical funding, acquisitions, and investments while being able to select for country, industry, and company revenue range. The full interactive dashboard is available [here](https://lookerstudio.google.com/s/gun7hoIApTQ).
-
-![Dashboard 1](images/dashboard1.png)
-![Dashboard 2](images/dashboard2.png)
-
 
 ---
 
