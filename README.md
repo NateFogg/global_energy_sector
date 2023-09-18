@@ -5,8 +5,6 @@
 - [Introduction](#introduction)
 - [Project Overview](#project-overview)
 - [Technologies Used](#technologies-used)
-- [Project Structure](#project-structure)
-- [Getting Started](#getting-started)
 - [Data Collection](#data-collection)
 - [Data Storage](#data-storage)
 - [Data Processing](#data-processing)
